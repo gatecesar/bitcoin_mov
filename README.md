@@ -1,8 +1,4 @@
-# Bitcoin Data Challenge – CoinGecko API + PySpark
-
-Este proyecto resuelve un reto técnico que consiste en obtener información histórica del precio de Bitcoin utilizando la API de CoinGecko, almacenar los datos en una base de datos y calcular un promedio móvil de 5 días utilizando PySpark o Pandas.
-
-
+# Data Challenge – CoinGecko API 
 
 ## 🧱 Estructura del Proyecto
 
